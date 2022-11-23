@@ -56,14 +56,14 @@
 }
 
 @media (max-width: 1999px) {
-  span {
+  #logoname {
     display: none;
   }
 }
 
 @media (min-width: 1200px) {
-  span {
-    display: block;
+  #logoname {
+    display: flex;
     font-size: 3rem;
   }
 }
