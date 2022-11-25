@@ -52,3 +52,17 @@ section {
   }
 }
 
+@media (min-width: 1200px) and (max-width: 1399px) {
+  section p {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+}
+
+@media (min-width: 1400px) {
+  section p {
+    padding-left: 138px;
+    padding-right: 138px;
+  }
+}
+
