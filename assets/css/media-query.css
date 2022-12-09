@@ -23,9 +23,6 @@
   }
 }
 
-section {
-}
-
 @media (min-width: 1200px) {
   .rowha {
     margin-left: 130px;
@@ -39,16 +36,6 @@ section {
     margin-left: 150px;
     padding-left: 0px;
     padding-right: 0px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .containerha {
-  }
-}
-
-@media (min-width: 1400px) {
-  .containerha {
   }
 }
 
